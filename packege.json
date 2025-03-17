@@ -1,0 +1,12 @@
+{
+  "name": "my-ai-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "brain.js": "^2.0.0",
+    "express": "^4.18.2"
+  }
+}
